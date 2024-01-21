@@ -1,0 +1,3 @@
+== Browser Image information
+
+Moved to a https://aerokube.com/images/latest/[dedicated page].
